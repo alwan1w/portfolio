@@ -19,9 +19,9 @@ export default function Projects() {
         'Sistem manajemen absensi dan cuti karyawan berbasis web dengan GPS tracking, foto verifikasi real-time, dan approval workflow otomatis.',
       tags: ['Laravel', 'Livewire', 'TailwindCSS', 'Google Maps API', 'PWA'],
       type: 'Web Development',
-      image: '/images/project2.png',
+      image: '/images/smart.png',
       github: 'https://github.com/alwan1w/SmartPresensi',
-      demo: '#'
+      demo: 'https://drive.google.com/drive/folders/1cErVNCXY3OstGsaJU2H9dA5AYnyiGY2n?usp=sharing'
     },
     {
       title: 'JagoHub - Manajemen Tugas Mahasiswa',
@@ -40,7 +40,7 @@ export default function Projects() {
       tags: ['Next.js', 'Tailwind CSS', 'React'],
       type: 'Frontend',
       image: '/images/portfolio.png',
-      github: '#',
+      github: 'https://github.com/alwan1w/portfolio',
       demo: '#'
     }
   ]
@@ -58,7 +58,7 @@ export default function Projects() {
         {/* Header */}
         <div className="mb-16 text-center">
           <span className="font-mono text-sm text-emerald-400">
-            {'// Portfolio'}
+            {' Portfolio'}
           </span>
           <h2 className="mt-2 mb-4 text-5xl font-bold">
             <span className="text-white">Featured </span>

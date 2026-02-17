@@ -99,7 +99,7 @@ export default function Contact() {
         {/* Header */}
         <div className="mb-16 text-center">
           <span className="font-mono text-sm text-emerald-400">
-            {'// Get In Touch'}
+            {' Get In Touch'}
           </span>
           <h2 className="mt-2 mb-4 text-5xl font-bold">
             <span className="text-white">Let's Work </span>
